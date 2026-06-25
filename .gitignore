@@ -1,0 +1,24 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Generated packages and symbols
+*.vsix
+*.pdb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
